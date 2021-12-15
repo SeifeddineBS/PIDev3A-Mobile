@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <image name="apple-icon.png" type="multi"  />
+    <image name="back.png"  />
+    <image name="backgroundMobile.jpg"  />
+    <image name="defaut.png"  />
+    <image name="docu.png"  />
+    <image name="ecran.png"  />
+    <image name="lire.jpg"  />
+    <image name="lire.png"  />
+    <image name="meditation.jpg"  />
+    <image name="meditation.png"  />
+    <image name="note.png"  />
+    <image name="parler.png"  />
+    <image name="pas.jpg"  />
+    <image name="pas.png"  />
+    <image name="portfolio-details-1.jpg"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="Container.bgColor" value="95eb95" />
+        <val key="Container.fgColor" value="000000" />
+        <val key="Container.transparency" value="255" />
+        <val key="FloatingActionButton.bgColor" value="66cc00" />
+        <val key="FloatingActionButton.fgColor" value="ffffff" />
+        <val key="FloatingActionButton.press#bgColor" value="cc33" />
+        <val key="FloatingActionButton.press#derive" value="FloatingActionButton" />
+        <val key="FloatingActionButton.press#transparency" value="255" />
+        <val key="FloatingActionButton.sel#bgColor" value="66ff33" />
+        <val key="FloatingActionButton.sel#derive" value="FloatingActionButton" />
+        <val key="FloatingActionButton.sel#transparency" value="255" />
+        <val key="FloatingActionButton.transparency" value="255" />
+        <val key="Form.bgImage" value="backgroundMobile.jpg" />
+        <val key="Form.bgType" value="1" />
+        <val key="SideCommand.align" value="1" />
+        <val key="SideCommand.bgColor" value="99cc00" />
+        <border key="SideCommand.border" type="empty" />
+        <val key="SideCommand.fgColor" value="ffffff" />
+        <font key="SideCommand.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="4.0" />
+        <val key="SideCommand.margin" value="0.0,1.0,1.5,0.0" />
+        <val key="SideCommand.padUnit" value="2,2,2,2" />
+        <val key="SideCommand.padding" value="3.0,3.0,3.0,3.0" />
+        <val key="SideCommand.press#bgColor" value="ff66" />
+        <val key="SideCommand.press#derive" value="SideCommand" />
+        <val key="SideCommand.sel#bgColor" value="336600" />
+        <val key="SideCommand.sel#derive" value="SideCommand" />
+        <val key="SideCommand.textDecoration" value="0" />
+        <val key="SideCommand.transparency" value="255" />
+        <val key="SideNavigationPanel.bgColor" value="b5ff6f" />
+        <val key="SideNavigationPanel.transparency" value="255" />
+        <val key="StatusBarSideMenu.padding" value="0.0,0.0,0.0,0.0" />
+    </theme>
+    <image name="travail.jpg"  />
+    <image name="travail.png"  />
+</resource>

@@ -1,0 +1,19 @@
+[0520/102043.582:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"Output device error, falling back to null sink. device_status=4"}
+[0520/141151.299:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141151.322:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141156.320:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141156.326:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141201.327:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141201.342:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141206.339:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141206.354:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141211.350:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141211.365:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141216.367:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141216.381:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141221.385:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141221.386:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141226.397:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141226.397:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141231.407:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0520/141231.408:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
